@@ -41,8 +41,8 @@ const { siteIcp, version } = configPublic;
 
 const linkData = {
   github: "https://github.com/zFlqwovo/site-status",
-  home: "https://zflqw.xyz",
-  email: "mailto:admin@zflqw.xyz",
+  home: "https://2719233.xyz",
+  email: "mailto:admin@2719233.xyz",
 };
 </script>
 
